@@ -22,18 +22,18 @@ public class Developer
     public string Name { get; set; } = "MooniniteModz";
     public string[] CurrentFocus { get; set; } = 
     {
-        "Building scalable .NET applications",
+        "HCI",
         "PowerShell automation & tooling",
         "DevOps pipeline optimization",
-        "Ergonomic workspace perfection"
+        "Drinking way to much caffine!!!!"
     };
     
     public Dictionary<string, string[]> TechStack { get; set; } = new()
     {
-        ["Languages"] = new[] { "C#", "PowerShell", "TypeScript", "SQL" },
+        ["Languages"] = new[] { "C#", "PowerShell", "C++", "SQL" },
         ["Frameworks"] = new[] { ".NET Core", "ASP.NET", "Entity Framework" },
-        ["Cloud"] = new[] { "Azure", "AWS", "Docker", "Kubernetes" },
-        ["Tools"] = new[] { "VS Code", "Git", "Azure DevOps", "Terraform" },
+        ["Cloud"] = new[] { "Azure", "Kubernetes", "Docker", "AWS" },
+        ["Tools"] = new[] { "Imagination", "NeoViM", "The will to survive"},
         ["Databases"] = new[] { "SQL Server", "PostgreSQL", "MongoDB" }
     };
     
@@ -64,7 +64,6 @@ public class Developer
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
