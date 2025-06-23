@@ -14,36 +14,7 @@
 
 ---
 
-## 🚀 About Me
-
-```csharp
-public class Developer
-{
-    public string Name { get; set; } = "MooniniteModz";
-    public string[] CurrentFocus { get; set; } = 
-    {
-        "HCI",
-        "PowerShell automation & tooling",
-        "DevOps pipeline optimization",
-        "Drinking way to much caffine!!!!"
-    };
-    
-    public Dictionary<string, string[]> TechStack { get; set; } = new()
-    {
-        ["Languages"] = new[] { "C#", "PowerShell", "C++", "SQL" },
-        ["Frameworks"] = new[] { ".NET Core", "ASP.NET" },
-        ["Cloud"] = new[] { "Azure", "Kubernetes", "Docker", "AWS" },
-        ["Tools"] = new[] { "Imagination", "NeoViM", "The will to survive"},
-    };
-    
-    public string GetCurrentActivity() => 
-        "Building enterprise solutions that (hopefully) don't suck";
-}
-```
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack, Tools, and interests
 
 <div align="center">
 
