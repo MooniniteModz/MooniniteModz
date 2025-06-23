@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?
 font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Burgoning+Security Engineer+%26+SOC+Engineer;PowerShell+Automation+Enthusiast;Ergonomic+Keyboard+Obsessive;Building+Enterprise+Solutions" alt="Typing SVG" />
 </div>
-
 <div align="center">
+
   
   [![GitHub followers](https://img.shields.io/github/followers/MooniniteModz?style=for-the-badge&logo=github&color=00D4AA)](https://github.com/MooniniteModz)
   [![GitHub stars](https://img.shields.io/github/stars/MooniniteModz?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MooniniteModz)
