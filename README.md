@@ -37,7 +37,7 @@ public class Developer
     };
     
     public string GetCurrentActivity() => 
-        "Building enterprise solutions that don't suck";
+        "Building enterprise solutions that (hopefully) don't suck";
 }
 ```
 
