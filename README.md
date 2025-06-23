@@ -99,43 +99,6 @@ I'm obsessed with ergonomic workspaces and optimal developer productivity:
 
 ---
 
-## 🎯 Current Focus
-
-```powershell
-# What I'm working on right now
-$CurrentProjects = @{
-    Learning = @(
-        "Advanced Kubernetes deployments",
-        "Azure Functions optimization", 
-        "ML.NET deep learning models"
-    )
-    Building = @(
-        "Enterprise DevOps automation tools",
-        "PowerShell module ecosystem",
-        "Cross-platform .NET applications"
-    )
-    Optimizing = @(
-        "Development workflow efficiency",
-        "Ergonomic workspace perfection", 
-        "Code quality and maintainability"
-    )
-}
-
-Write-Host "Always learning, always building, always optimizing! 🚀"
-```
-
----
-
-## 💡 Fun Facts
-
-- 🦾 I use a split ergonomic keyboard with custom Colemak layout (your wrists will thank you)
-- ⚡ PowerShell is my automation language of choice for everything
-- 🧠 I believe in building tools that make developers' lives better
-- 🎯 Obsessed with developer productivity and workspace optimization
-- 📚 Always learning new technologies and sharing knowledge
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
