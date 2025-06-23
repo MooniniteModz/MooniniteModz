@@ -31,10 +31,9 @@ public class Developer
     public Dictionary<string, string[]> TechStack { get; set; } = new()
     {
         ["Languages"] = new[] { "C#", "PowerShell", "C++", "SQL" },
-        ["Frameworks"] = new[] { ".NET Core", "ASP.NET", "Entity Framework" },
+        ["Frameworks"] = new[] { ".NET Core", "ASP.NET" },
         ["Cloud"] = new[] { "Azure", "Kubernetes", "Docker", "AWS" },
         ["Tools"] = new[] { "Imagination", "NeoViM", "The will to survive"},
-        ["Databases"] = new[] { "SQL Server", "PostgreSQL", "MongoDB" }
     };
     
     public string GetCurrentActivity() => 
@@ -52,7 +51,6 @@ public class Developer
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -62,7 +60,6 @@ public class Developer
 
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
