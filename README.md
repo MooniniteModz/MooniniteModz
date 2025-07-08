@@ -1,7 +1,7 @@
 # Hey there - I'm Mooninite
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Paranoid+Opsec+Nerd;Automation+Evangelist;Beleiver+of+42;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Paranoid+Opsec+Nerd;Automation+Evangelist;Follower+of+42;" alt="Typing SVG" />
 </div>
 <div align="center">
 
