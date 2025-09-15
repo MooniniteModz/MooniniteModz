@@ -1,9 +1,8 @@
 # Hey there - I'm Mooninite
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Opsec+Currious;Automation+Evangelist;Follower+of+42;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=2500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=++++█████++++;+++█+■+■+█+++;+++█++▼++█+++;+++█████████++;+++║+║+║+║+║++;OPSEC+ENTHUSIAST;+++╔═════╗+++;+++║■+++■║+++;+++║++▼++║+++;+++╚══╦══╝+++;++++++║+++++;AUTOMATION+EXPERT;++║+║+║+║+║++;++█████████++;++█++▼++█+++;++█+■+■+█+++;+++█████++++;FOLLOWER+OF+THE+MOON" alt="Mooninite Flipping" />
 </div>
-<div align="center">
 
   
   [![GitHub followers](https://img.shields.io/github/followers/MooniniteModz?style=for-the-badge&logo=github&color=00D4AA)](https://github.com/MooniniteModz)
@@ -14,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack, Tools, and interests
+## 🛠️Tech Stack, Tools, and interests
 
 <div align="center">
 
@@ -63,14 +62,14 @@
 
 </div>
 
-### 🤖 TradeNetics
+###  TradeNetics
 **AI-Powered Cryptocurrency Trading Bot with ML.NET**
 - Machine learning classification for trading decisions
 - Real-time Binance API integration
 - Technical analysis with RSI, MACD, Bollinger Bands
 - Built with C# and ML.NET for maximum performance
 
-### 🔧 PST-Fuze  
+###  PST-Fuze  
 **Cross-Platform PST File Management Tool**
 - Avalonia-based desktop application
 - Works on Windows, macOS, and Linux
@@ -81,7 +80,7 @@
 
 ## ⌨️ Ergonomic Setup
 
-I'm obsessed with ergonomic workspaces and optimal developer productivity:
+FIrst time meessing with a split orthokeyboard. Verry much enjoying it so far..........
 
 ### 🌙 **ZSA Moonlander** - Split Ortholinear Keyboard
 - **Custom Colemak layout** optimized for C# and PowerShell development
