@@ -1,7 +1,7 @@
 # Hey there - I'm Mooninite
 
 <<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🟪🟪🟪🟪🟪;🟪🔷+🔷🟪;🟪++🔷++🟪;🟪🟪🟪🟪🟪;OPSEC;🟪🟪🟪🟪🟪;🟪🔷+🔷🟪;🟪++🔷++🟪;🟪🟪🟪🟪🟪;AUTOMATION;🟪🟪🟪🟪🟪;🟪🔷+🔷🟪;🟪++🔷++🟪;🟪🟪🟪🟪🟪;FOLLOWER+OF+IGNIGNOKT" alt="Mooninite" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🔷🔷🔷+🟪🟪🟪🟪🟪🟪+OPSEC+🟪🟪🟪🟪🟪+🔷🔷🔷;🔷🔷🔷+🟪🟪🟪🟪🟪🟪+Automation+🟪🟪🟪🟪🟪+🔷🔷🔷;🔷🔷🔷+🟪🟪🟪🟪🟪🟪+42+🟪🟪🟪🟪🟪+🔷🔷🔷; alt="Mooninite" />
 </div>
   
   [![GitHub followers](https://img.shields.io/github/followers/MooniniteModz?style=for-the-badge&logo=github&color=00D4AA)](https://github.com/MooniniteModz)
