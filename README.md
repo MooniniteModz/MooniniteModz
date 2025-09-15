@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️Tech Stack, Tools, and interests
+## Tech Stack, Tools, and interests
 
 <div align="center">
 
