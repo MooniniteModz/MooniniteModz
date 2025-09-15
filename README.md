@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  Stats and stuff
 
 <div align="center">
   
@@ -51,7 +51,7 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
