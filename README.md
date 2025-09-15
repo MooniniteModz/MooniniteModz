@@ -1,7 +1,7 @@
 # Hey there - I'm Mooninite
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=2500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=++++█████++++;+++█+■+■+█+++;+++█++▼++█+++;+++█████████++;+++║+║+║+║+║++;OPSEC+ENTHUSIAST;+++╔═════╗+++;+++║■+++■║+++;+++║++▼++║+++;+++╚══╦══╝+++;++++++║+++++;AUTOMATION+EXPERT;++║+║+║+║+║++;++█████████++;++█++▼++█+++;++█+■+■+█+++;+++█████++++;FOLLOWER+OF+THE+MOON" alt="Mooninite Flipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=10&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=150&lines=++++++▄▄▄▄▄▄▄+++++;+++++█+▀+++▀+█+++++;+++++█+++═+++█+++++;+++++█▄▄▄▄▄▄▄█+++++;+++++║+++║+++║+++++;++++═╩═══╩═══╩═++++++;OPSEC+MASTER;+++╔═════╗++++;+++║+▀+▀+║++++;+++║++═++║++++;+++╚══╦══╝++++;++++++║++++++;+++++═╬═++++++;++++++║++++++;AUTOMATION+WIZARD;+═╩═══╩═══╩═++;++║+++║+++║++;++█▄▄▄▄▄▄▄█++;++█+++▄+++█++;++█+▀+++▀+█++;++█+++++++█++;+++▀▀▀▀▀▀▀+++;FOLLOWER+OF+IGNIGNOKT" alt="Somersaulting Mooninite" />
 </div>
 
   
