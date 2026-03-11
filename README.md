@@ -81,7 +81,7 @@
 FIrst time meessing with a split orthokeyboard. Verry much enjoying it so far..........
 
 ### 🌙 **ZSA Moonlander** - Split Ortholinear Keyboard
-- **Custom Colemak layout** optimized for C# and PowerShell development
+- **Custom Colemak layout** optimized for Ergonomics
 - **Dedicated VS Code layer** with IDE shortcuts and debugging controls
 - **PowerShell workflow optimization** for pipeline and cmdlet development
 - **RSI prevention** through proper ergonomic design
