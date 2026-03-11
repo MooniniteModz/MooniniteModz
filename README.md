@@ -1,7 +1,7 @@
 # Hey there - I'm Mooninite
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🔷🔷+🟪🟪🟪🟪🟪🟪+OPSEC+🟪🟪🟪🟪🟪🟪+🔷🔷;🔷🔷+🟪🟪🟪🟪🟪🟪+Automation+🟪🟪🟪🟪🟪🟪+🔷🔷;🔷🔷🔷+🟪🟪🟪🟪🟪🟪+42+🟪🟪🟪🟪🟪🟪+🔷🔷🔷" alt="Mooninite" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🔷🔷+🟪🟪🟪🟪+Low-Level+Systems+🟪🟪🟪🟪+🔷🔷;🔷🔷+🟪🟪🟪🟪+Vulkan+Graphics+🟪🟪🟪🟪+🔷🔷;🔷🔷🔷+🟪🟪🟪🟪+Linux+Kernel+🟪🟪🟪🟪+🔷🔷🔷" alt="Mooninite" />
   
   [![GitHub followers](https://img.shields.io/github/followers/MooniniteModz?style=for-the-badge&logo=github&color=00D4AA)](https://github.com/MooniniteModz)
   [![GitHub stars](https://img.shields.io/github/stars/MooniniteModz?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MooniniteModz)
@@ -11,30 +11,32 @@
 
 ---
 
-## Tech Stack, Tools, and interests
+## Tech Stack, Tools, and Interests
 
 <div align="center">
 
 ### Languages & Frameworks
-![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### Systems & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Engineering Tools
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 </div>
 
 ---
 
-##  Stats and stuff
+## Stats and Stuff
 
 <div align="center">
   
@@ -51,42 +53,42 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 
-[![TradeNetics](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=TradeNetics&theme=tokyonight)](https://github.com/MooniniteModz/TradeNetics)
-[![PST-Fuze](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=PST-Fuze&theme=tokyonight)](https://github.com/MooniniteModz/PST-Fuze)
+[![BlackHole-Sim](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=BlackHole-Sim&theme=tokyonight)](https://github.com/MooniniteModz/BlackHole-Sim)
+[![Kernel-Mod-Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=Kernel-Mod-Toolkit&theme=tokyonight)](https://github.com/MooniniteModz/Kernel-Mod-Toolkit)
 
 </div>
 
-###  TradeNetics
-**AI-Powered Cryptocurrency Trading Bot with ML.NET**
-- Machine learning classification for trading decisions
-- Real-time Binance API integration
-- Technical analysis with RSI, MACD, Bollinger Bands
-- Built with C# and ML.NET for maximum performance
+### BlackHole-Sim
+**High-Performance Visual Simulator using C++ and Vulkan**
+- Real-time gravitational lensing rendering
+- Massively parallel computation using Vulkan compute shaders
+- Optimized for NVIDIA RTX hardware via low-level memory management
+- Built with modern C++20 standards for peak efficiency
 
-###  PST-Fuze  
-**Cross-Platform PST File Management Tool**
-- Avalonia-based desktop application
-- Works on Windows, macOS, and Linux
-- No dependency on Microsoft Outlook
-- Built for modern .NET development
+### Kernel-Mod-Toolkit
+**Linux System Optimization & Kernel Utilities**
+- Custom bash scripts for automated Arch Linux hardening
+- Performance tuning tools for high-throughput networking
+- Minimalist resource monitoring for headless servers
+- Designed for seasoned SysAdmins and Power Users
 
 ---
 
 ## ⌨️ Ergonomic Setup
 
-FIrst time meessing with a split orthokeyboard. Verry much enjoying it so far..........
+I've moved away from standard layouts to a split ortholinear workflow. It's transformed my coding speed and eliminated the wrist strain from long Linux kernel debugging sessions.
 
 ### 🌙 **ZSA Moonlander** - Split Ortholinear Keyboard
-- **Custom Colemak layout** optimized for Ergonomics
-- **Dedicated VS Code layer** with IDE shortcuts and debugging controls
-- **PowerShell workflow optimization** for pipeline and cmdlet development
-- **RSI prevention** through proper ergonomic design
+- **Custom Colemak layout** optimized for C++ and Bash scripting
+- **Vim-Motion Layer** baked into the hardware for Neovim supremacy
+- **RTX-3090 Driven** workstation running optimized Linux kernels
+- **Mechanical Precision** with Kailh Box Jade switches for tactile feedback
 
-*Check out my [keyboard layout documentation](https://github.com/MooniniteModz/NVim-Config) for the full setup!*
+*Check out my [Neovim configuration](https://github.com/MooniniteModz/nvim-config) for the full dev environment!*
 
 ---
 
@@ -100,8 +102,7 @@ FIrst time meessing with a split orthokeyboard. Verry much enjoying it so far...
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mooniNitemodz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/con-moore)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MooniniteModz@proton.me)
 
 </div>
@@ -110,14 +111,8 @@ FIrst time meessing with a split orthokeyboard. Verry much enjoying it so far...
 
 <div align="center">
   
-  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on something awesome! 🚀**
+  **Thanks for visiting! I'm always open to collaborating on low-level Linux projects or graphics engineering. 🚀**
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
