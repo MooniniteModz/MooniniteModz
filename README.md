@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![BlackHole-Sim](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=BlackHole-Sim&theme=tokyonight)](https://github.com/MooniniteModz/BlackHole-Sim)
+[![BlackHole-Sim](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=BlackHole-Sim&theme=tokyonight)](https://github.com/MooniniteModz/Outpost)
 [![Kernel-Mod-Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=Kernel-Mod-Toolkit&theme=tokyonight)](https://github.com/MooniniteModz/Kernel-Mod-Toolkit)
 
 </div>
