@@ -74,7 +74,7 @@ I've moved away from standard layouts to a split ortholinear workflow. It's hind
 - **Vim-Motion Layer** Quick keys for Neovim
 - **Mechanical Precision** with Kailh Box Jade switches for tactile feedback
 
-*Check out my [Neovim configuration](https://github.com/MooniniteModz/nvim-config) for the full dev environment!*
+*Check out my [Neovim configuration](https://github.com/MooniniteModz/nvim-config) for the full dev keymapping!*
 
 <div align="center">
 
