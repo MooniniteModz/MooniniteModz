@@ -64,12 +64,14 @@
 
 </div>
 
-### BlackHole-Sim
-**High-Performance Visual Simulator using C++ and Vulkan**
-- Real-time gravitational lensing rendering
-- Massively parallel computation using Vulkan compute shaders
-- Optimized for NVIDIA RTX hardware via low-level memory management
+### Outpost - SIEM
+**Lightweight SIEM Built in C++20**
+- Real-time log ingestion from syslog, M365, Azure, and FortiGate
+- Detection engine with threshold, sequence, and value-list rules
+- PostgreSQL-backed event storage with full-text search
 - Built with modern C++20 standards for peak efficiency
+- React dashboard with drill-down investigation and custom widget
+- Role-based auth, alert management, and connector framework
 
 ### Kernel-Mod-Toolkit
 **Linux System Optimization & Kernel Utilities**
