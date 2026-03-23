@@ -93,25 +93,6 @@ I've moved away from standard layouts to a split ortholinear workflow. It's hind
 
 *Check out my [Neovim configuration](https://github.com/MooniniteModz/nvim-config) for the full dev environment!*
 
----
-
-## 📈 Activity Graph
-
-[![MooniniteModz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MooniniteModz&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/con-moore)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MooniniteModz@proton.me)
-
-</div>
-
----
-
 <div align="center">
   
   **Thanks for visiting! I'm always open to collaborating on low-level Linux projects or graphics engineering.**
