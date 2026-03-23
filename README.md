@@ -94,9 +94,5 @@ I've moved away from standard layouts to a split ortholinear workflow. It's hind
 *Check out my [Neovim configuration](https://github.com/MooniniteModz/nvim-config) for the full dev environment!*
 
 <div align="center">
-  
-  **Thanks for visiting! I'm always open to collaborating on low-level Linux projects or graphics engineering.**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
