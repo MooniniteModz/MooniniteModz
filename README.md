@@ -43,7 +43,7 @@
 <div align="center">
 
 [![Outpost-SIEM](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=outpost&theme=tokyonight)](https://github.com/MooniniteModz/Outpost)
-[![TradeNetics-Trader](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=TradeNeticst&theme=tokyonight)](https://github.com/MooniniteModz/TradeNetics)
+[![TradeNetics-Trader](https://github-readme-stats.vercel.app/api/pin/?username=MooniniteModz&repo=TradeNetics&theme=tokyonight)](https://github.com/MooniniteModz/TradeNetics)
 
 </div>
 
