@@ -65,11 +65,11 @@
 
 ---
 
-## ⌨️ Ergonomic Setup
+## ⌨️ Ergonomic Keybaord
 
 I've moved away from standard layouts to a split ortholinear workflow. It's hindered my speed a bit but eliminated the wrist strain from long work sessions.
 
-### 🌙 **ZSA Moonlander** - Split Ortholinear Keyboard
+###  **ZSA Moonlander** - Split Ortholinear Keyboard
 - **Custom Colemak layout** optimized for C++ and Bash scripting
 - **Vim-Motion Layer** Quick keys for Neovim
 - **Mechanical Precision** with Kailh Box Jade switches for tactile feedback
