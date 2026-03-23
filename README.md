@@ -38,23 +38,6 @@
 
 ---
 
-## Stats and Stuff
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MooniniteModz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MooniniteModz&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=MooniniteModz&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## Featured Projects
 
 <div align="center">
