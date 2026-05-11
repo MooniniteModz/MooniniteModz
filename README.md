@@ -1,5 +1,3 @@
-# Hey there - I'm Mooninite
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🔷🔷+🟪🟪🟪+(Semi)+Low-Level+Systems+🟪🟪🟪+🔷🔷;🔷🔷+🟪🟪🟪🟪+Vulkan+Graphics+🟪🟪🟪🟪+🔷🔷;🔷🔷+🟪🟪🟪🟪+Opsec+Shananagins+🟪🟪🟪🟪+🔷🔷+;🔷🔷+🟪🟪🟪🟪+Linux+and+Things+🟪🟪🟪🟪+🔷🔷" alt="Mooninite" />
   
